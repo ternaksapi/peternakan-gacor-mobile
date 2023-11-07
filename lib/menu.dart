@@ -39,7 +39,7 @@ class MyHomePage extends StatelessWidget {
               ),
               // Grid layout
               GridView.count(
-                // Container pada card kita.
+                // `Container` pada card kita.
                 primary: true,
                 padding: const EdgeInsets.all(20),
                 crossAxisSpacing: 10,
